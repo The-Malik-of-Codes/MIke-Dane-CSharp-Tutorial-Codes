@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MikeDaneTutorialCodes
+namespace Mike Dane Tutorial Codes
 {
     class Program
     {
